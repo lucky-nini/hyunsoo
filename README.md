@@ -1,1 +1,8 @@
-# hyunsoo
+## 📜 Problems
+
+| Level | Type | Solution | Problem | Data |
+| ----- | ----- | ----- | ----- | ----- |
+| Gold 2 | 그래프 이론, 유니온 파인드 | [벽 부수고 이동하기 4](https://github.com/lucky-nini/hyunsoo/blob/main/%EB%B0%B1%EC%A4%80/Gold/16946.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%E2%80%854/%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%E2%80%854.java) | [백준](https://www.acmicpc.net/problem/16946) | 2024/10/22 |
+| Gold4 | DP | [RGB거리 2](https://github.com/lucky-nini/hyunsoo/blob/main/%EB%B0%B1%EC%A4%80/Gold/17404.%E2%80%85RGB%EA%B1%B0%EB%A6%AC%E2%80%852/RGB%EA%B1%B0%EB%A6%AC%E2%80%852.java) | [백준](https://www.acmicpc.net/problem/17404) | 2024/10/23 |
+| P L1 | 구현 | [[PCCP 기출문제] 1번 / 동영상 재생기](https://github.com/lucky-nini/hyunsoo/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/340213.%E2%80%85%EF%BC%BBPCCP%E2%80%85%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%EF%BC%BD%E2%80%851%EB%B2%88%E2%80%85%EF%BC%8F%E2%80%85%EB%8F%99%EC%98%81%EC%83%81%E2%80%85%EC%9E%AC%EC%83%9D%EA%B8%B0/%EF%BC%BBPCCP%E2%80%85%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%EF%BC%BD%E2%80%851%EB%B2%88%E2%80%85%EF%BC%8F%E2%80%85%EB%8F%99%EC%98%81%EC%83%81%E2%80%85%EC%9E%AC%EC%83%9D%EA%B8%B0.java) | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/340213?language=java) | 2024/10/24 |
+| Gold4 | 구현, 백트래킹 | [스도쿠](https://github.com/lucky-nini/hyunsoo/blob/main/%EB%B0%B1%EC%A4%80/Gold/2239.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0/%EC%8A%A4%EB%8F%84%EC%BF%A0.java) | [백준](https://www.acmicpc.net/problem/2239) | 2024/10/25 |
