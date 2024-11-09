@@ -12,14 +12,6 @@ class Solution {
         public String toString() {
             return "["+x+", "+y+"]";
         }
-        
-        @Override
-        public boolean equals(Object obj) {
-            if (this == obj) return true;
-            if (obj == null || getClass() != obj.getClass()) return false;
-            Construction that = (Construction) obj;
-            return x == that.x && y == that.y;
-        }
     }
     public static class Constructions {
         boolean[][] pillars;
