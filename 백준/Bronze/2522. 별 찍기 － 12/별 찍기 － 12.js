@@ -1,0 +1,28 @@
+const fs = require("fs");
+const input = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
+
+function solution(arr) {
+  const N = Number(arr[0]);
+  let result = "";
+
+  function makeResult(r) {
+    for (let c = 1; c <= N - r; c++) {
+      result += " ";
+    }
+    for (let c = 1; c <= r; c++) {
+      result += "*";
+    }
+    result += "\n";
+  }
+
+  for (let r = 1; r <= N; r++) {
+    makeResult(r);
+  }
+  for (let r = N - 1; r >= 1; r--) {
+    makeResult(r);
+  }
+
+  return result;
+}
+
+console.log(solution(input));
