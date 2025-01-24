@@ -49,12 +49,12 @@ public class Main {
 		nations[0].rank = 1;
 		int diff = 1;
 		int score = -1;
-		for (int i = 1; i < N; i++) {
-			if (nations[i - 1].g == nations[i].g && nations[i - 1].s == nations[i].s
+		for (int i = 0; i < N; i++) {
+			if (i != 0 && nations[i - 1].g == nations[i].g && nations[i - 1].s == nations[i].s
 					&& nations[i - 1].b == nations[i].b) {
 				nations[i].rank = nations[i - 1].rank;
 				diff++;
-			} else {
+			} else if (i != 0) {
 				nations[i].rank = nations[i - 1].rank + diff;
 				diff = 1;
 			}
